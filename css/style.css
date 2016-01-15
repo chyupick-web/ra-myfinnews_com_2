@@ -74,3 +74,5 @@ p.light { text-align: left; font-weight: 400; color: #666666; }
 footer#contact .container.about-us {
     margin: 5em auto;
 }
+
+footer#contact .container.about-us img {border-radius:14px;}
